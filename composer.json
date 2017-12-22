@@ -1,5 +1,5 @@
 {
-  "name": "smatlogger/smtlogger",
+  "name": "smtlogger/smtlogger",
   "description": "An outbox logger for u",
   "keywords": [
     "logger",
