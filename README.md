@@ -6,6 +6,11 @@ after all, we need to write logs to many paths for each own business
 
 so this came out
 
+## Versions
+
+- 1.X for monolog 1.X and php 5.6+
+- 2.X for monolog 2.X and php 7.3+
+ 
 ## Processors
 
  - HostNameProcessor logs machine name
